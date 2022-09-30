@@ -1,0 +1,32 @@
+IOWA METARs:
+https://mesonet.agron.iastate.edu/request/download.phtml
+
+NARR data
+https://psl.noaa.gov/data/gridded/data.narr.html
+
+MET Weather Stations 
+https://eft.lm.doe.gov/EFTClient/Account/Login.htm - will need to set up a login/password
+
+NURE HSSR
+https://mrdata.usgs.gov/nure/sediment/
+
+DEM
+https://www.usgs.gov/the-national-map-data-delivery/gis-data-download
+
+Abandoned Uranium Mine Sites
+https://www.epa.gov/navajo-nation-uranium-cleanup/abandoned-mines-cleanup-screening-assessment-report-and-atlas
+
+Navajo Nation well samples 
+https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=517
+
+SSURGO soil data
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_053627
+
+USGS land cover
+https://www.usgs.gov/centers/eros/science/national-land-cover-database
+
+Census Tyger Lines
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+
+NASA VIP data
+https://lpdaac.usgs.gov/news/nasa-vegetation-index-and-phenology-vip-data-released/
